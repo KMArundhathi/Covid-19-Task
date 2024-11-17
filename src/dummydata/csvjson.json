@@ -1,0 +1,362 @@
+[
+  {
+    "State": "Maharashtra",
+    "Total Cases": "81,76,04437",
+    "Active Cases": 2133,
+    "Discharged": "80,27,24134",
+    "Deaths": "1,48,590",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.18%",
+    "Death Ratio": "1.82%"
+  },
+  {
+    "State": "Kerala",
+    "Total Cases": "69,17,5773",
+    "Active Cases": 132,
+    "Discharged": "68,45,4611",
+    "Deaths": "72,103",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.96%",
+    "Death Ratio": "1.04%"
+  },
+  {
+    "State": "Karnataka",
+    "Total Cases": "40,95,9719",
+    "Active Cases": 8013,
+    "Discharged": "40,55,49322",
+    "Deaths": "40,398",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.01%",
+    "Death Ratio": "0.99%"
+  },
+  {
+    "State": "Tamil Nadu",
+    "Total Cases": "36,11,5841",
+    "Active Cases": 101,
+    "Discharged": "35,73,488",
+    "Deaths": "38,086",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.95%",
+    "Death Ratio": "1.05%"
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Total Cases": "23,41,083",
+    "Active Cases": 51,
+    "Discharged": "23,26,3451",
+    "Deaths": "14,733",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.37%",
+    "Death Ratio": "0.63%"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Total Cases": "21,45,70915",
+    "Active Cases": 648,
+    "Discharged": "21,21,9237",
+    "Deaths": "23,722",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.89%",
+    "Death Ratio": "1.11%"
+  },
+  {
+    "State": "West Bengal",
+    "Total Cases": "21,27,4936",
+    "Active Cases": 371,
+    "Discharged": "21,05,8985",
+    "Deaths": "21,558",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.98%",
+    "Death Ratio": "1.01%"
+  },
+  {
+    "State": "Delhi",
+    "Total Cases": "20,41,81637",
+    "Active Cases": 15211,
+    "Discharged": "20,14,98725",
+    "Deaths": "266,771",
+    "Active Ratio": "0.01%",
+    "Discharge Ratio": "98.69%",
+    "Death Ratio": "1.31%"
+  },
+  {
+    "State": "Odisha",
+    "Total Cases": "13,48,6374",
+    "Active Cases": 671,
+    "Discharged": "13,39,3553",
+    "Deaths": "9,215",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.31%",
+    "Death Ratio": "0.68%"
+  },
+  {
+    "State": "Rajasthan",
+    "Total Cases": "13,26,8469",
+    "Active Cases": 7538,
+    "Discharged": "13,17,02947",
+    "Deaths": "9,742",
+    "Active Ratio": "0.01%",
+    "Discharge Ratio": "99.26%",
+    "Death Ratio": "0.73%"
+  },
+  {
+    "State": "Gujarat",
+    "Total Cases": "12,92,0957",
+    "Active Cases": 426,
+    "Discharged": "12,80,96513",
+    "Deaths": "11,088",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.14%",
+    "Death Ratio": "0.86%"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Total Cases": "11,88,41916",
+    "Active Cases": 704,
+    "Discharged": "11,74,15312",
+    "Deaths": "14,196",
+    "Active Ratio": "0.01%",
+    "Discharge Ratio": "98.80%",
+    "Death Ratio": "1.19%"
+  },
+  {
+    "State": "Haryana",
+    "Total Cases": "10,79,0987",
+    "Active Cases": 137,
+    "Discharged": "10,68,304",
+    "Deaths": "10,781",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.00%",
+    "Death Ratio": "1.00%"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Total Cases": "10,56,6812",
+    "Active Cases": 9,
+    "Discharged": "10,45,8862",
+    "Deaths": "10,786",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.98%",
+    "Death Ratio": "1.02%"
+  },
+  {
+    "State": "Bihar",
+    "Total Cases": "8,55,42010",
+    "Active Cases": 248,
+    "Discharged": "8,43,0812",
+    "Deaths": "12,315",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.56%",
+    "Death Ratio": "1.44%"
+  },
+  {
+    "State": "Telangana",
+    "Total Cases": "8,44,7942",
+    "Active Cases": 151,
+    "Discharged": "8,40,6683",
+    "Deaths": "4,111",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.51%",
+    "Death Ratio": "0.49%"
+  },
+  {
+    "State": "Punjab",
+    "Total Cases": "7,93,7555",
+    "Active Cases": 172,
+    "Discharged": "7,73,1643",
+    "Deaths": "20,574",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "97.41%",
+    "Death Ratio": "2.59%"
+  },
+  {
+    "State": "Assam",
+    "Total Cases": "7,46,225",
+    "Active Cases": 22,
+    "Discharged": "7,38,1872",
+    "Deaths": "8,036",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.92%",
+    "Death Ratio": "1.08%"
+  },
+  {
+    "State": "Jammu & Kashmir",
+    "Total Cases": "4,82,1713",
+    "Active Cases": 243,
+    "Discharged": "4,77,3546",
+    "Deaths": "4,793",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.00%",
+    "Death Ratio": "0.99%"
+  },
+  {
+    "State": "Uttarakhand",
+    "Total Cases": "4,52,6241",
+    "Active Cases": 81,
+    "Discharged": "4,44,848",
+    "Deaths": "7,768",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.28%",
+    "Death Ratio": "1.72%"
+  },
+  {
+    "State": "Jharkhand",
+    "Total Cases": "4,43,860",
+    "Active Cases": 1,
+    "Discharged": "4,38,5231",
+    "Deaths": "5,337",
+    "Active Ratio": "0%",
+    "Discharge Ratio": "98.80%",
+    "Death Ratio": "1.20%"
+  },
+  {
+    "State": "Himachal Pradesh",
+    "Total Cases": "3,23,0124",
+    "Active Cases": 11,
+    "Discharged": "3,18,7554",
+    "Deaths": "4,246",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.68%",
+    "Death Ratio": "1.31%"
+  },
+  {
+    "State": "Goa",
+    "Total Cases": "2,63,597",
+    "Active Cases": 32,
+    "Discharged": "2,59,5802",
+    "Deaths": "4,014",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.48%",
+    "Death Ratio": "1.52%"
+  },
+  {
+    "State": "Mizoram",
+    "Total Cases": "2,39,567",
+    "Active Cases": 1,
+    "Discharged": "2,38,832",
+    "Deaths": 734,
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.69%",
+    "Death Ratio": "0.31%"
+  },
+  {
+    "State": "Puducherry",
+    "Total Cases": "1,77,6962",
+    "Active Cases": 5,
+    "Discharged": "1,75,7092",
+    "Deaths": "1,982",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.88%",
+    "Death Ratio": "1.12%"
+  },
+  {
+    "State": "Manipur",
+    "Total Cases": "1,40,036",
+    "Active Cases": 0,
+    "Discharged": "1,37,887",
+    "Deaths": "2,149",
+    "Active Ratio": "0%",
+    "Discharge Ratio": "98.47%",
+    "Death Ratio": "1.53%"
+  },
+  {
+    "State": "Tripura",
+    "Total Cases": "1,08,560",
+    "Active Cases": 0,
+    "Discharged": "1,07,617",
+    "Deaths": 943,
+    "Active Ratio": "0%",
+    "Discharge Ratio": "99.13%",
+    "Death Ratio": "0.87%"
+  },
+  {
+    "State": "Chandigarh",
+    "Total Cases": "1,00,719",
+    "Active Cases": 41,
+    "Discharged": "995,301",
+    "Deaths": "1,185",
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.82%",
+    "Death Ratio": "1.18%"
+  },
+  {
+    "State": "Meghalaya",
+    "Total Cases": "96,992",
+    "Active Cases": 0,
+    "Discharged": "95,364",
+    "Deaths": "1,628",
+    "Active Ratio": "0%",
+    "Discharge Ratio": "98.32%",
+    "Death Ratio": "1.68%"
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "Total Cases": "67,049",
+    "Active Cases": 0,
+    "Discharged": "66,753",
+    "Deaths": 296,
+    "Active Ratio": "0%",
+    "Discharge Ratio": "99.56%",
+    "Death Ratio": "0.44%"
+  },
+  {
+    "State": "Sikkim",
+    "Total Cases": "449,461",
+    "Active Cases": 21,
+    "Discharged": "444,432",
+    "Deaths": 501,
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "98.88%",
+    "Death Ratio": "1.11%"
+  },
+  {
+    "State": "Nagaland",
+    "Total Cases": "36,033",
+    "Active Cases": 0,
+    "Discharged": "35,251",
+    "Deaths": 782,
+    "Active Ratio": "0%",
+    "Discharge Ratio": "97.83%",
+    "Death Ratio": "2.17%"
+  },
+  {
+    "State": "Ladakh",
+    "Total Cases": "29,626",
+    "Active Cases": 1,
+    "Discharged": "29,394",
+    "Deaths": 231,
+    "Active Ratio": "0.00%",
+    "Discharge Ratio": "99.22%",
+    "Death Ratio": "0.78%"
+  },
+  {
+    "State": "Dadra and Nagar Haveli and Daman and Diu",
+    "Total Cases": "11,592",
+    "Active Cases": 0,
+    "Discharged": "11,588",
+    "Deaths": 4,
+    "Active Ratio": "0%",
+    "Discharge Ratio": "99.97%",
+    "Death Ratio": "0.03%"
+  },
+  {
+    "State": "Lakshadweep",
+    "Total Cases": "11,415",
+    "Active Cases": 0,
+    "Discharged": "11,363",
+    "Deaths": 52,
+    "Active Ratio": "0%",
+    "Discharge Ratio": "99.54%",
+    "Death Ratio": "0.46%"
+  },
+  {
+    "State": "Andaman and Nicobar",
+    "Total Cases": "10,766",
+    "Active Cases": 0,
+    "Discharged": "10,637",
+    "Deaths": 129,
+    "Active Ratio": "0%",
+    "Discharge Ratio": "98.80%",
+    "Death Ratio": "1.20%"
+  }
+]
